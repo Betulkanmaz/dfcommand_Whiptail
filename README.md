@@ -17,7 +17,7 @@
   -sync : kullanım bilgilerini almadan önce senkronizasyonu çağırın.
   -T : dosya sistemi türünü yazdır
   
-  #Proje Nasil Calistirilir?
+  # Proje Nasil Calistirilir?
   * sh uzantili dosya bilgisayara indirilir.
   * sudo apt get update
   * sudo apt install whiptail
@@ -29,7 +29,7 @@
   ![Screenshot from 2023-01-05 20-05-45](https://user-images.githubusercontent.com/56195071/210841914-c1be3df5-c7e6-4bee-890f-aad6fd736757.png)
   ![Screenshot from 2023-01-05 20-06-32](https://user-images.githubusercontent.com/56195071/210841989-02324fe2-6934-4b65-a3bd-8e19df26f24a.png)
   
-  #Proje Anlatimli Videosu
+  # Proje Anlatimli Videosu
   
   
 
